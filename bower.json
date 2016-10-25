@@ -1,0 +1,23 @@
+{
+  "name": "poly-vendor-dragdealer",
+  "homepage": "https://github.com/TonyBogdanov/poly-vendor-dragdealer",
+  "authors": [
+    "Tony Bogdanov <tonybogdanov@gmail.com>"
+  ],
+  "description": "Unambiguous loading of DragDealer",
+  "keywords": [
+    "web-components"
+  ],
+  "main": "poly-vendor-dragdealer.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dragdealer": "^0.9.9"
+  }
+}
